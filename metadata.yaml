@@ -1,0 +1,36 @@
+_repo: Kant-s-Prolegomena-to-Any-Future-Metaphysics_52821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, Emmanuel
+    - Kant, I. (Immanuil)
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+  editor:
+    agent_name: Carus, Paul
+    birthdate: 1852
+    deathdate: 1919
+    gutenberg_agent_id: '25540'
+    url: http://www.gutenberg.org/2009/agents/25540
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Carus
+description: ''
+gutenberg_issued: '2016-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Metaphysics'
+- GITenberg
+title: Kant's Prolegomena to Any Future Metaphysics
+url: http://www.gutenberg.org/ebooks/52821
