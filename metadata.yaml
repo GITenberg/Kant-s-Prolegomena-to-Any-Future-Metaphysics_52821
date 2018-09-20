@@ -1,5 +1,8 @@
 _repo: Kant-s-Prolegomena-to-Any-Future-Metaphysics_52821
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kant, Immanuel
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25540
     wikipedia: http://en.wikipedia.org/wiki/Paul_Carus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52821#Kant-s-Prolegomena-to-Any-Future-Metaphysics
 gutenberg_issued: '2016-08-16'
 gutenberg_type: Text
 identifiers:
